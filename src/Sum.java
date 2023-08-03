@@ -1,4 +1,4 @@
-public class Sum {
+public class Sum implements Operation {
     private static int addValorePence;
     private static int addValoreShillings;
 
